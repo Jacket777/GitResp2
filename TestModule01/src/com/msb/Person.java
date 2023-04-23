@@ -2,5 +2,6 @@ package com.msb;
 
 public class Person {
     private int age;
-    private int name;
+    private String name;
+    private int height;
 }
